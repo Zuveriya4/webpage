@@ -1,0 +1,27 @@
+body {
+   background-color:#dcffcc;
+}
+h1{
+text-shadow: 2px 2px #ff8ba7;
+color:#4a47a3;
+  }
+  h2{
+
+    text-shadow: 2px 2px #ff8ba7;
+    color:#4a47a3;
+  }
+  h3{
+
+    text-shadow: 2px 2px #ff8ba7;
+    color:#4a47a3;
+  }
+
+hr{
+border-color: #5f6caf ;
+
+border-style:dashed;
+
+border-width: 2px;
+width: 5%;
+
+}
